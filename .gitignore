@@ -27,3 +27,14 @@ results/images/*.png
 
 # Logs
 *.log
+
+# Dataset files
+data/pokemon/
+data/pokemon.zip
+
+# Model artifacts
+models/*.h5
+models/*.keras
+
+# Generated outputs
+results/images/*.png
